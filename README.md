@@ -34,3 +34,4 @@
 - [js-gui-vue](https://github.com/denisecase/js-gui-vue)
 - [js-node](https://github.com/denisecase/js-node)
 - [js-node-express](https://github.com/denisecase/js-node-express)
+- committed
